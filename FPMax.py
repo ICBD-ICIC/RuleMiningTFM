@@ -76,7 +76,7 @@ for minimum_support in supports:
                 rules.drop(columns=[col], inplace=True)        
 
         # Drop unnecessary metrics
-        rules.drop(columns=['lift', 'leverage', 'conviction', 'zhangs_metric'], inplace=True)
+        # rules.drop(columns=['lift', 'leverage', 'conviction', 'zhangs_metric'], inplace=True)
 
         # Calculate the support of each rule
         rules['support'] = rules['support'] * len(train_data)
