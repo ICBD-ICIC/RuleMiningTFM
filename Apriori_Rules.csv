@@ -1,0 +1,75 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_high'})",frozenset({'usr_abusive_words_ratio_low'}),0.18714285714285714,0.8428571428571429,118.0,0.9007633587786259
+"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'})",frozenset({'usr_abusive_words_ratio_low'}),0.19285714285714287,0.8428571428571429,118.0,0.874074074074074
+frozenset({'inf_valence_score_high'}),frozenset({'usr_abusive_words_ratio_low'}),0.5142857142857142,0.8428571428571429,313.0,0.8694444444444445
+frozenset({'inf_num_polar_words_high'}),frozenset({'usr_abusive_words_ratio_low'}),0.3942857142857143,0.8428571428571429,238.00000000000003,0.8623188405797102
+"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_high'})",frozenset({'usr_abusive_words_ratio_low'}),0.1657142857142857,0.8428571428571429,99.0,0.8534482758620691
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'})",frozenset({'usr_abusive_words_ratio_low'}),0.3271428571428571,0.8428571428571429,195.0,0.8515283842794761
+frozenset({'inf_num_polar_words_low'}),frozenset({'usr_abusive_words_ratio_low'}),0.6057142857142858,0.8428571428571429,352.0,0.8301886792452831
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'})",frozenset({'usr_abusive_words_ratio_low'}),0.20714285714285716,0.8428571428571429,120.0,0.8275862068965517
+frozenset({'inf_num_moral_words_high'}),frozenset({'usr_abusive_words_ratio_low'}),0.3514285714285714,0.8428571428571429,201.0,0.8170731707317074
+frozenset({'inf_valence_score_low'}),frozenset({'usr_abusive_words_ratio_low'}),0.4857142857142857,0.8428571428571429,277.0,0.8147058823529413
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'})",frozenset({'usr_abusive_words_ratio_low'}),0.2785714285714286,0.8428571428571429,157.0,0.805128205128205
+"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'})",frozenset({'usr_abusive_words_ratio_low'}),0.18571428571428572,0.8428571428571429,102.0,0.7846153846153846
+"frozenset({'inf_num_moral_words_high', 'inf_valence_score_low'})",frozenset({'usr_abusive_words_ratio_low'}),0.15857142857142856,0.8428571428571429,83.0,0.7477477477477479
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'})",frozenset({'usr_num_polar_words_low'}),0.3271428571428571,0.7185714285714285,170.0,0.7423580786026202
+frozenset({'inf_valence_score_high'}),frozenset({'usr_num_polar_words_low'}),0.5142857142857142,0.7185714285714285,266.0,0.7388888888888889
+frozenset({'inf_num_polar_words_low'}),frozenset({'usr_num_polar_words_low'}),0.6057142857142858,0.7185714285714285,313.0,0.7382075471698112
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'})",frozenset({'usr_num_polar_words_low'}),0.2785714285714286,0.7185714285714285,143.0,0.7333333333333333
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_high'})",frozenset({'usr_num_polar_words_low'}),0.18714285714285714,0.7185714285714285,96.0,0.732824427480916
+"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'})",frozenset({'usr_num_polar_words_low'}),0.18571428571428572,0.7185714285714285,92.0,0.7076923076923076
+"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'})",frozenset({'usr_num_polar_words_low'}),0.19285714285714287,0.7185714285714285,94.99999999999999,0.7037037037037036
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_high'})","frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.18714285714285714,0.6585714285714286,92.0,0.7022900763358778
+frozenset({'inf_valence_score_low'}),frozenset({'usr_num_polar_words_low'}),0.4857142857142857,0.7185714285714285,237.0,0.6970588235294118
+frozenset({'inf_num_polar_words_high'}),frozenset({'usr_num_polar_words_low'}),0.3942857142857143,0.7185714285714285,189.99999999999997,0.6884057971014492
+frozenset({'inf_valence_score_high'}),"frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.5142857142857142,0.6585714285714286,247.0,0.6861111111111112
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'})","frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.3271428571428571,0.6585714285714286,155.0,0.6768558951965066
+frozenset({'inf_num_polar_words_low'}),"frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.6057142857142858,0.6585714285714286,283.0,0.6674528301886792
+"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'})","frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.19285714285714287,0.6585714285714286,89.99999999999999,0.6666666666666665
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'})",frozenset({'usr_valence_score_low'}),0.20714285714285716,0.5414285714285715,96.0,0.6620689655172414
+frozenset({'inf_num_moral_words_high'}),frozenset({'usr_num_polar_words_low'}),0.3514285714285714,0.7185714285714285,162.0,0.6585365853658537
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'})","frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.2785714285714286,0.6585714285714286,128.0,0.6564102564102564
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'})",frozenset({'usr_num_polar_words_low'}),0.20714285714285716,0.7185714285714285,94.0,0.6482758620689655
+frozenset({'inf_num_polar_words_high'}),"frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.3942857142857143,0.6585714285714286,178.0,0.644927536231884
+"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'})","frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.18571428571428572,0.6585714285714286,82.0,0.6307692307692307
+frozenset({'inf_valence_score_low'}),"frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.4857142857142857,0.6585714285714286,214.0,0.6294117647058823
+"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'})",frozenset({'usr_num_moral_words_low'}),0.18571428571428572,0.5771428571428572,81.0,0.6230769230769231
+frozenset({'inf_num_moral_words_high'}),"frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.3514285714285714,0.6585714285714286,150.0,0.6097560975609756
+"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_high'})",frozenset({'usr_valence_score_low'}),0.1657142857142857,0.5414285714285715,70.0,0.6034482758620691
+"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_high'})",frozenset({'usr_num_polar_words_low'}),0.1657142857142857,0.7185714285714285,70.0,0.6034482758620691
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'})",frozenset({'usr_num_moral_words_low'}),0.2785714285714286,0.5771428571428572,115.99999999999999,0.5948717948717948
+frozenset({'inf_num_moral_words_high'}),frozenset({'usr_valence_score_low'}),0.3514285714285714,0.5414285714285715,146.0,0.5934959349593496
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'})","frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.20714285714285716,0.6585714285714286,86.0,0.593103448275862
+frozenset({'inf_num_polar_words_low'}),frozenset({'usr_num_moral_words_low'}),0.6057142857142858,0.5771428571428572,250.0,0.5896226415094339
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'})",frozenset({'usr_num_moral_words_low'}),0.3271428571428571,0.5771428571428572,134.0,0.5851528384279476
+"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'})",frozenset({'usr_valence_score_low'}),0.18571428571428572,0.5414285714285715,76.0,0.5846153846153845
+frozenset({'inf_valence_score_high'}),frozenset({'usr_num_moral_words_low'}),0.5142857142857142,0.5771428571428572,209.00000000000003,0.5805555555555557
+"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'})",frozenset({'usr_valence_score_low'}),0.19285714285714287,0.5414285714285715,78.0,0.5777777777777777
+frozenset({'inf_valence_score_low'}),frozenset({'usr_num_moral_words_low'}),0.4857142857142857,0.5771428571428572,195.0,0.573529411764706
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_high'})",frozenset({'usr_num_moral_words_low'}),0.18714285714285714,0.5771428571428572,75.0,0.5725190839694656
+frozenset({'inf_num_polar_words_high'}),frozenset({'usr_valence_score_low'}),0.3942857142857143,0.5414285714285715,158.0,0.572463768115942
+"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'})",frozenset({'usr_num_moral_words_low'}),0.19285714285714287,0.5771428571428572,77.0,0.5703703703703703
+frozenset({'inf_valence_score_low'}),frozenset({'usr_valence_score_low'}),0.4857142857142857,0.5414285714285715,192.99999999999997,0.5676470588235294
+frozenset({'inf_num_moral_words_high'}),frozenset({'usr_num_moral_words_low'}),0.3514285714285714,0.5771428571428572,139.0,0.5650406504065041
+"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'})",frozenset({'usr_ethos_attack'}),0.18571428571428572,0.4742857142857143,73.0,0.5615384615384615
+frozenset({'inf_num_polar_words_high'}),frozenset({'usr_num_moral_words_low'}),0.3942857142857143,0.5771428571428572,154.0,0.5579710144927537
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'})",frozenset({'usr_num_moral_words_low'}),0.20714285714285716,0.5771428571428572,79.0,0.5448275862068965
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_high'})","frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.18714285714285714,0.52,71.0,0.5419847328244275
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'})",frozenset({'usr_valence_score_low'}),0.3271428571428571,0.5414285714285715,123.99999999999999,0.5414847161572053
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'})",frozenset({'usr_ethos_attack'}),0.2785714285714286,0.4742857142857143,105.0,0.5384615384615384
+frozenset({'inf_num_moral_words_high'}),frozenset({'usr_ethos_attack'}),0.3514285714285714,0.4742857142857143,131.0,0.532520325203252
+frozenset({'inf_valence_score_high'}),"frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.5142857142857142,0.52,191.0,0.5305555555555556
+"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'})","frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.3271428571428571,0.52,120.0,0.5240174672489083
+frozenset({'inf_num_polar_words_low'}),"frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.6057142857142858,0.52,221.99999999999997,0.5235849056603773
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'})","frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.2785714285714286,0.52,102.0,0.5230769230769231
+frozenset({'inf_num_polar_words_low'}),frozenset({'usr_valence_score_low'}),0.6057142857142858,0.5414285714285715,221.0,0.5212264150943396
+"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'})","frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.19285714285714287,0.52,70.0,0.5185185185185185
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'})","frozenset({'usr_num_polar_words_low', 'usr_num_moral_words_low'})",0.2785714285714286,0.4828571428571429,101.0,0.517948717948718
+frozenset({'inf_valence_score_low'}),frozenset({'usr_ethos_attack'}),0.4857142857142857,0.4742857142857143,176.0,0.5176470588235295
+frozenset({'inf_valence_score_high'}),frozenset({'usr_valence_score_low'}),0.5142857142857142,0.5414285714285715,186.00000000000003,0.5166666666666667
+frozenset({'inf_num_polar_words_high'}),"frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.3942857142857143,0.52,142.0,0.5144927536231884
+frozenset({'inf_valence_score_low'}),"frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.4857142857142857,0.52,173.0,0.5088235294117647
+frozenset({'inf_num_moral_words_high'}),"frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.3514285714285714,0.52,123.99999999999999,0.5040650406504065
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'})","frozenset({'usr_valence_score_low', 'usr_abusive_words_ratio_low'})",0.20714285714285716,0.4085714285714286,73.0,0.503448275862069
+"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'})",frozenset({'usr_valence_score_high'}),0.2785714285714286,0.4585714285714286,98.00000000000001,0.5025641025641026
+frozenset({'inf_num_polar_words_low'}),"frozenset({'usr_num_polar_words_low', 'usr_num_moral_words_low'})",0.6057142857142858,0.4828571428571429,212.00000000000003,0.5

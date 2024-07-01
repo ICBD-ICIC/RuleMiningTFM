@@ -1,0 +1,75 @@
+Average Accuracy,Rule,Accuracy
+0.662802088485663,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_high'}) -> frozenset({'usr_abusive_words_ratio_low'})",0.851063829787234
+,"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'}) -> frozenset({'usr_abusive_words_ratio_low'})",0.8181818181818182
+,frozenset({'inf_valence_score_high'}) -> frozenset({'usr_abusive_words_ratio_low'}),0.8618421052631579
+,frozenset({'inf_num_polar_words_high'}) -> frozenset({'usr_abusive_words_ratio_low'}),0.8532110091743119
+,"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_high'}) -> frozenset({'usr_abusive_words_ratio_low'})",0.6944444444444444
+,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low'})",0.8666666666666667
+,frozenset({'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low'}),0.8324607329842932
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'}) -> frozenset({'usr_abusive_words_ratio_low'})",0.8548387096774194
+,frozenset({'inf_num_moral_words_high'}) -> frozenset({'usr_abusive_words_ratio_low'}),0.7528089887640449
+,frozenset({'inf_valence_score_low'}) -> frozenset({'usr_abusive_words_ratio_low'}),0.8175675675675675
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low'})",0.7906976744186046
+,"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low'})",0.7924528301886793
+,"frozenset({'inf_num_moral_words_high', 'inf_valence_score_low'}) -> frozenset({'usr_abusive_words_ratio_low'})",0.6888888888888889
+,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_num_polar_words_low'})",0.780952380952381
+,frozenset({'inf_valence_score_high'}) -> frozenset({'usr_num_polar_words_low'}),0.7697368421052632
+,frozenset({'inf_num_polar_words_low'}) -> frozenset({'usr_num_polar_words_low'}),0.7120418848167539
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'}) -> frozenset({'usr_num_polar_words_low'})",0.627906976744186
+,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_high'}) -> frozenset({'usr_num_polar_words_low'})",0.7446808510638298
+,"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_num_polar_words_low'})",0.660377358490566
+,"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'}) -> frozenset({'usr_num_polar_words_low'})",0.7727272727272727
+,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.723404255319149
+,frozenset({'inf_valence_score_low'}) -> frozenset({'usr_num_polar_words_low'}),0.6756756756756757
+,frozenset({'inf_num_polar_words_high'}) -> frozenset({'usr_num_polar_words_low'}),0.7431192660550459
+,"frozenset({'inf_valence_score_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.7039473684210527
+,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.6952380952380952
+,"frozenset({'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.6282722513089005
+,"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.7272727272727273
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'}) -> frozenset({'usr_valence_score_low'})",0.45161290322580644
+,frozenset({'inf_num_moral_words_high'}) -> frozenset({'usr_num_polar_words_low'}),0.6067415730337079
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.5465116279069767
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'}) -> frozenset({'usr_num_polar_words_low'})",0.7419354838709677
+,"frozenset({'inf_num_polar_words_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.7064220183486238
+,"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.6226415094339622
+,"frozenset({'inf_valence_score_low'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.6081081081081081
+,"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_num_moral_words_low'})",0.6981132075471698
+,"frozenset({'inf_num_moral_words_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.5730337078651685
+,"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_high'}) -> frozenset({'usr_valence_score_low'})",0.6388888888888888
+,"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_high'}) -> frozenset({'usr_num_polar_words_low'})",0.5277777777777778
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'}) -> frozenset({'usr_num_moral_words_low'})",0.7093023255813954
+,frozenset({'inf_num_moral_words_high'}) -> frozenset({'usr_valence_score_low'}),0.5730337078651685
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_polar_words_low'})",0.6935483870967742
+,frozenset({'inf_num_polar_words_low'}) -> frozenset({'usr_num_moral_words_low'}),0.7120418848167539
+,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_num_moral_words_low'})",0.7142857142857143
+,"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_valence_score_low'})",0.5283018867924528
+,frozenset({'inf_valence_score_high'}) -> frozenset({'usr_num_moral_words_low'}),0.7368421052631579
+,"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'}) -> frozenset({'usr_valence_score_low'})",0.5909090909090909
+,frozenset({'inf_valence_score_low'}) -> frozenset({'usr_num_moral_words_low'}),0.7027027027027027
+,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_high'}) -> frozenset({'usr_num_moral_words_low'})",0.7872340425531915
+,frozenset({'inf_num_polar_words_high'}) -> frozenset({'usr_valence_score_low'}),0.5137614678899083
+,"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'}) -> frozenset({'usr_num_moral_words_low'})",0.7272727272727273
+,frozenset({'inf_valence_score_low'}) -> frozenset({'usr_valence_score_low'}),0.5202702702702703
+,frozenset({'inf_num_moral_words_high'}) -> frozenset({'usr_num_moral_words_low'}),0.7078651685393258
+,"frozenset({'inf_num_moral_words_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_ethos_attack'})",0.5094339622641509
+,frozenset({'inf_num_polar_words_high'}) -> frozenset({'usr_num_moral_words_low'}),0.7339449541284404
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'}) -> frozenset({'usr_num_moral_words_low'})",0.6935483870967742
+,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.723404255319149
+,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_valence_score_low'})",0.5523809523809524
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'}) -> frozenset({'usr_ethos_attack'})",0.5697674418604651
+,frozenset({'inf_num_moral_words_high'}) -> frozenset({'usr_ethos_attack'}),0.5730337078651685
+,"frozenset({'inf_valence_score_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.6776315789473685
+,"frozenset({'inf_valence_score_high', 'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.6571428571428571
+,"frozenset({'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.6178010471204188
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.5697674418604651
+,frozenset({'inf_num_polar_words_low'}) -> frozenset({'usr_valence_score_low'}),0.5602094240837696
+,"frozenset({'inf_num_moral_words_high', 'inf_valence_score_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.6136363636363636
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'}) -> frozenset({'usr_num_polar_words_low', 'usr_num_moral_words_low'})",0.46511627906976744
+,frozenset({'inf_valence_score_low'}) -> frozenset({'usr_ethos_attack'}),0.5
+,frozenset({'inf_valence_score_high'}) -> frozenset({'usr_valence_score_low'}),0.5657894736842105
+,"frozenset({'inf_num_polar_words_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.6605504587155964
+,"frozenset({'inf_valence_score_low'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.5878378378378378
+,"frozenset({'inf_num_moral_words_high'}) -> frozenset({'usr_abusive_words_ratio_low', 'usr_num_moral_words_low'})",0.5280898876404494
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_high'}) -> frozenset({'usr_valence_score_low', 'usr_abusive_words_ratio_low'})",0.3548387096774194
+,"frozenset({'inf_valence_score_low', 'inf_num_polar_words_low'}) -> frozenset({'usr_valence_score_high'})",0.43023255813953487
+,"frozenset({'inf_num_polar_words_low'}) -> frozenset({'usr_num_polar_words_low', 'usr_num_moral_words_low'})",0.5235602094240838
